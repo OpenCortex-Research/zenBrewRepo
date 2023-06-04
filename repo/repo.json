@@ -1,6 +1,12 @@
 {
-	"Name": "ZenBrew Main Repo",
-	"Format": "CSV",
-	"Packages": "packages.csv"
+	"name": "ZenBrew Main Repo",
+	"format": "V1",
+	"packages": [
+		{
+			"name": "Test",
+			"ID": "test",
+			"url": "https://raw.githubusercontent.com/OpenCortex-Research/zenBrewRepo/develop/repo/test.json"
+		}
+	]
 	
 }
