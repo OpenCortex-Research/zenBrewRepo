@@ -1,6 +1,6 @@
 {
 	"Name": "ZenBrew Main Repo",
-	"Format": "CSV",
+	"Format": "Legacy",
 	"Packages": "packages.csv"
 	
 }
