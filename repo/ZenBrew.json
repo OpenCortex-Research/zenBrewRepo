@@ -1,12 +1,12 @@
 {
-	"identifier": "ZenBrew",
+	"id": "ZenBrew",
 	"description": "ZenBrew is a homebrew package manager for the quad cortex",
 	"author": "Judah",
-	"runAtStartup": true,
 	"versions": [
 		{
-			"ID": "0.1.3",
-			"location": "https://github.com/OpenCortex-Research/ZenBrew/releases/download/V0.1.3/ZenBrew.tar.gz",
-			"branch": "Release"
+			"id": "0.1.3",
+			"branch": "Release",
+			"features": ["relink", "command"]
 		}
+	]
 }

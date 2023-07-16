@@ -4,9 +4,8 @@
 	"packages": [
 		{
 			"name": "Test",
-			"ID": "test",
-			"url": "https://raw.githubusercontent.com/OpenCortex-Research/zenBrewRepo/develop/repo/test.json"
+			"id": "test",
+			"location": "https://raw.githubusercontent.com/OpenCortex-Research/zenBrewRepo/develop/repo/test.json"
 		}
 	]
-	
 }

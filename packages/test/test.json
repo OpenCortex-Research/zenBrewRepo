@@ -1,0 +1,12 @@
+{
+	"id": "test",
+	"description": "test",
+	"author": "test",
+	"versions": [
+		{
+			"id": "1.0.0",
+			"branch": "release",
+			"features": ["relink", "startup", "command"]
+		}
+	]
+}
